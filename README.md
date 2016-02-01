@@ -5,6 +5,7 @@ This module offers some aliases for the most commonly used operators.
 
 Currently implemented:
 
+```
 | Operator | Example      |
 |   :___:  |  :___:       |
 | ∘        | (f ∘ g) x    |
@@ -15,6 +16,7 @@ Currently implemented:
 | ≠        | true ≠ false |
 | ≤        | false ≤ true |
 | ≥        | "ab" ≥ "cd"  |
+```
 
 # installation
 `bower install purescript-fancy-operators`
